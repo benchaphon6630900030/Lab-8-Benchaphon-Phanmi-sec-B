@@ -1,1 +1,3 @@
-# Lab-8-Benchaphon-Phanmi-sec-B
+# Benchaphon-Phanmi
+CE 312 Homework : Lab 8
+Section B
